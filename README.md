@@ -16,3 +16,6 @@ How to run :
   2. Download My file -> open file in application
   3. Run The code
   4. Try to visualize and demo program
+
+# Documentations 
+![dokumentasi](Project Algo Kelompok 1/1736278131446.png)
