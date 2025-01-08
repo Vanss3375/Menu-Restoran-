@@ -18,4 +18,5 @@ How to run :
   4. Try to visualize and demo program
 
 # Documentations 
+![lampiran](Menu-Restoran/Project Algo Kelompok 1/1736278131446.png)
 ![dokumentasi](https://github.com/Vanss3375/Menu-Restoran-/blob/main/Project%20Algo%20Kelompok%201/Projek%20Membuat%20Menu%20Restoran.pdf)
